@@ -1,5 +1,5 @@
 apt-get update -y
-apt-get install openjdk-11-jre:arm64 -y
+apt-get install openjdk-11-jre -y
 mkdir MinecraftSunucum
 cd MinecraftSunucum
 wget https://download.getbukkit.org/spigot/spigot-1.17.jar
